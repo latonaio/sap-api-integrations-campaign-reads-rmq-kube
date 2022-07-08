@@ -36,7 +36,7 @@ spec:
             - name: RMQ_VHOST
               value: "sap-test"
             - name: RMQ_QUEUE_FROM
-              value: "sap-api-integrations-product-reads-rmq-kube-c4"
+              value: "sap-api-integrations-campaign-reads-rmq-kube"
             - name: RMQ_QUEUE_TO
               value: "sap-sql-update-kube"
             - name: SAP_API_BASE_URL
